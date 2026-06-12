@@ -1,0 +1,6 @@
+{
+  "name": "Aranxita - Novela Visual Gótica",
+  "description": "Una novela visual gótica de romance interactivo sobre la princesa vampira Aranxita y el misterioso Franxito, con 15 finales y múltiples decisiones.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
