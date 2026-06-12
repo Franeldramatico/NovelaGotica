@@ -287,7 +287,7 @@ export default function GameScreen({
               src={aranxitaUrl} 
               alt="Aranxita Princess" 
               referrerPolicy="no-referrer"
-              className="max-h-[50vh] object-contain object-bottom drop-shadow-[0_10px_35px_rgba(0,0,0,0.85)] filter sharpen"
+              className="max-h-[80vh] object-contain object-bottom drop-shadow-[0_10px_35px_rgba(0,0,0,0.85)] filter sharpen"
             />
           </motion.div>
         )}
@@ -314,7 +314,7 @@ export default function GameScreen({
               src={franxitoUrl} 
               alt="Franxito Vampire" 
               referrerPolicy="no-referrer"
-              className="max-h-[50vh] object-contain object-bottom drop-shadow-[0_10px_35px_rgba(220,38,38,0.25)] filter sharpen"
+              className="max-h-[80vh] object-contain object-bottom drop-shadow-[0_10px_35px_rgba(220,38,38,0.25)] filter sharpen"
             />
           </motion.div>
         )}
